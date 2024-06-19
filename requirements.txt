@@ -3,3 +3,4 @@ pandas
 dataclasses
 sentence_transformers
 transformers
+sentencepiece
